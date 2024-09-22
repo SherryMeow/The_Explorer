@@ -15,7 +15,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:superzta/The_Explorer.git
+   git clone git@github.com:SherryMeow/The_Explorer.git
    ```
 
 2. Navigate to the project directory:
