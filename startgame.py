@@ -1,5 +1,5 @@
 # main.py
-from The_Explorer.game_libaray import Game
+from game_libaray import Game
 
 def main():
     game = Game()
